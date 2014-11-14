@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="javaspring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javaspring.war">
+      <element id="artifact" artifact-name="javaspring:war exploded" />
+    </root>
+  </artifact>
+</component>
